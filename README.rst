@@ -19,7 +19,7 @@ metaeppy
 goes beyond eppy
 
 
-* Free software: MIT license
+* Free software: Mozilla Public License, v. 2.0
 * Documentation: https://metaeppy.readthedocs.io.
 
 

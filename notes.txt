@@ -1,0 +1,16 @@
+2019-01-01
+----------
+
+virtualenv
+----------
+
+python3 -m venv ~/venvs/metaeppy # create
+source ~/venvs/metaeppy/bin/activate # activate
+
+
+to search
+---------
+
+grep -R "content_to_search" /path/to/directory
+grep -R "MIT" /.
+
