@@ -12,5 +12,5 @@ to search
 ---------
 
 grep -R "content_to_search" /path/to/directory
-grep -R "MIT" /.
+grep -R "santosh@" ./
 

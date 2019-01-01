@@ -26,7 +26,7 @@ goes beyond eppy
 Features
 --------
 
-* TODO
+* TODO - describe the purpose behind this repository
 
 Credits
 -------

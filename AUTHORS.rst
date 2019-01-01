@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Santosh Philip <santosh@noemai.com>
+* Santosh Philip
 
 Contributors
 ------------
