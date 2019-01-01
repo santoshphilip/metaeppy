@@ -6,8 +6,12 @@ Welcome to metaeppy's documentation!
    :caption: Contents:
 
    readme
-   modules
+   .. installation
+   .. usage
+   .. modules
+   .. contributing
    authors
+   .. history
 
 Indices and tables
 ==================

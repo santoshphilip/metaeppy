@@ -1,0 +1,5 @@
+2019-01-01
+----------
+
+- moved unused *.rst files to ./_old_files
+- set _old_files in the exclude list in conf.py
